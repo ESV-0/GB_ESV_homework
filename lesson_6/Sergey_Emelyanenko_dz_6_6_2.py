@@ -5,7 +5,6 @@ def add(x, y):
         for i in range(x, len(lf)):
             print(lf[i])
     f.close()
-
 add(1, 3)
 
 
